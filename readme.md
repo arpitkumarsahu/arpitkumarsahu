@@ -54,7 +54,7 @@
 
  
 
-[![Arpit's github activity graph](https://activity-graph.herokuapp.com/graph?username=arpitkumarsahu&theme=react-dark)](https://github.com/arpitkumarsahu/github-readme-activity-graph)
+
 
  
 
