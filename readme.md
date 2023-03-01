@@ -15,7 +15,7 @@
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpitkumar-sahu/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://arpitkumarsahu-protfolio.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://arpitkumarsahu.github.io/)
 
 - 😄 Pronouns: He/His
 
